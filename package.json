@@ -1,7 +1,7 @@
 {
   "name": "first-puppeteer-2024-1445",
   "version": "1.0.0",
-  "description": "",
+  "description": "First Puppeteer 2024 1445",
   "main": "index.js",
   "type": "module",
   "scripts": {
